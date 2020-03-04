@@ -1,0 +1,16 @@
+Jai shree ram
+Django udemy NOTES->
+
+->Install latest version of python 3.8.2 imp-add all path
+->install sublime text 3
+->Now to set the virtual environment:
+   1)Windows powershell
+   a)
+   b)python -V,pip freeze,
+
+
+    http://127.0.0.1:8000/admin/
+
+
+  ->username-email=jaydeep4420@gmail.com
+  ->pswd-Mydjango
