@@ -5,8 +5,12 @@ Django udemy NOTES->
 ->install sublime text 3
 ->Now to set the virtual environment:
    1)Windows powershell
-   a)
+   a)Set-ExecutionPolicy Unrestricted
    b)python -V,pip freeze,
+
+    python manage.py startapp todo_list
+
+   TodoApp Setting->Installed apps->'todo_list'
 
 
     http://127.0.0.1:8000/admin/
